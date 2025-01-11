@@ -1,2 +1,2 @@
 # new Project
-kaurGuri
+kaurGuri.
